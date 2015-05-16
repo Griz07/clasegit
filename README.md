@@ -1,3 +1,4 @@
 #clasegit 
 
-En esta clase estamos conociendo los comandos de git
+En esta clase estamos conociendo los comandos de git.
+Cada asistente subirá su archivo con su nombre y una pequeña biografía.
